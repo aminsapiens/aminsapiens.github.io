@@ -1,0 +1,55 @@
+/* Start Body */
+body {
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+/* End Body */
+
+/* Start Debug */
+.bg-yellowgreen {
+    background-color: rgb(221, 183, 13);
+}
+.bg-blue {
+    background-color: rgb(21, 187, 165);
+}
+.bg-green {
+    background-color: rgb(104, 240, 104);
+}
+.bg-gray {
+    background-color: rgb(88, 82, 82);
+}
+}
+.bg-black {
+    background-color: rgb(41, 40, 36);
+}
+/* End Debug */
+
+/* Start Container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%;
+}
+.container-full {
+    margin: 10px auto;
+    overflow: auto;
+    width: 100%;
+/* End Container */
+
+/* Start Logo */
+.logo {
+    text-align: center;
+}
+/* End Logo */
+
+/* Start Menu Primer */
+.menu-primer ul {
+    background-color: yellow;
+    border-radius: 4px;
+}
+/* End Menu Primer */
+
